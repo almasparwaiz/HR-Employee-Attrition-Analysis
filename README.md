@@ -7,7 +7,6 @@
 An end-to-end **Human Resource Analytics project** that analyzes employee attrition patterns using **Python, SQL, Excel, and Power BI**.  
 The goal is to identify key factors influencing employee turnover and provide **data-driven HR insights** to improve employee retention.
 
----
 
 ### Project Overview
 
@@ -20,7 +19,6 @@ Employee attrition is one of the biggest challenges for organizations, leading t
 
 This project explores HR data to understand **why employees leave** and builds an **interactive dashboard for decision-making**.
 
----
 
 ### Objectives
 
@@ -30,8 +28,6 @@ This project explores HR data to understand **why employees leave** and builds a
 - Build interactive Power BI dashboards  
 - Generate actionable business insights  
 - Support HR decision-making with data  
-
----
 
 ### Key Business Questions Answered
 
@@ -69,7 +65,6 @@ Encoded categorical variables
 Standardized column names
 Created salary bands, age groups & and other
 Built employee risk categories
-
 
 ### Exploratory Data Analysis (EDA)
 
