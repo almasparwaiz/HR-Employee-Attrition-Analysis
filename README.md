@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Makeup_sales_Dashboard_screenshot.png" width="1000"/>
+  <img src="HR_Employee_Attrition_Dashboard_page1.png" width="1000"/>
 </p>
 
 ## HR Employee Attrition Analysis & Interactive Dashboard
